@@ -1,2 +1,3 @@
 Hello and Welcome to Git Demo
 line 2
+modified for stash command
